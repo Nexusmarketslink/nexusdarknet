@@ -16,7 +16,7 @@
             After observing other markets being taken down due to Opsec errors, the Nexus team decided to take control. More than three years after its launch, and following a series of high-profile closures, the Archetyp Clearnet URL has gained a solid reputation in terms of user base, suppliers, and sales.
         </p>
         <h3>Official Onion Links:</h3>
-        https://archetypmarket.org/
+        https://markets-abacus.com/
     </section>
     <section>
         <h2>Security on the Nexus Market</h2>
